@@ -1,4 +1,4 @@
-[<img src="https://media.giphy.com/media/l4FGsakRxl5xrsWYw/giphy.gif" alt="👋 Hi there! I'm (Xayotbek(Mamajonov)|https://xayotbek.uz)" width="100%" title="👋 Hi there! I'm (Xayotbek(Mamajonov)|https://xayotbek,uz)"/>](https://xayotbek.uz/)
+[<img src="https://media.giphy.com/media/l4FGsakRxl5xrsWYw/giphy.gif" alt="👋 Hi there! I'm (Xayotbek(Mamajonov)|https://xayotbek.uz)" width="100%" height="500px" title="👋 Hi there! I'm (Xayotbek(Mamajonov)|https://xayotbek,uz)"/>](https://xayotbek.uz/)
 ![visitors](https://vbr.nathanchung.dev/badge?page_id=thexayotbe.thexayotbe&color=00cf00)
 <!--![Satoru Gojo 4k Livewallpaper _ Jujutsu Kaisen _ Anime Livewallpaper](https://github.com/thexayotbe/thexayotbe/assets/116886834/cf361a90-5cc6-4f41-bb3f-d17d68ef5abc)
 
