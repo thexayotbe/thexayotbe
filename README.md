@@ -1,6 +1,7 @@
-[<img src="https://www.veed.io/view/24782fc2-12ef-49ce-83f4-4d339cff64f2" alt="👋 Hi there! I'm (Xayotbek(Mamajonov)|https://xayotbek.uz)" width="100%" title="👋 Hi there! I'm (Xayotbek(Mamajonov)|https://xayotbek,uz)"/>](https://xayotbek.uz/)
+[<img src="https://github.com/thexayotbe/thexayotbe/assets/116886834/cf361a90-5cc6-4f41-bb3f-d17d68ef5abc" alt="👋 Hi there! I'm (Xayotbek(Mamajonov)|https://xayotbek.uz)" width="100%" title="👋 Hi there! I'm (Xayotbek(Mamajonov)|https://xayotbek,uz)"/>](https://xayotbek.uz/)
 ![visitors](https://vbr.nathanchung.dev/badge?page_id=thexayotbe.thexayotbe&color=00cf00)
-<!--
+<!--![Satoru Gojo 4k Livewallpaper _ Jujutsu Kaisen _ Anime Livewallpaper](https://github.com/thexayotbe/thexayotbe/assets/116886834/cf361a90-5cc6-4f41-bb3f-d17d68ef5abc)
+
 **Raymo111/Raymo111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
