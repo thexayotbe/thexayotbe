@@ -1,4 +1,4 @@
-[<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDdpa3lnd3NmMWViYzU3bm5mc2w5MWZmdjlkNnN4ZTI1NmR5NXcyOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/J8Ricj1XdGkIE/giphy.gif" alt="👋 Hi there! I'm (Xayotbek(Mamajonov)|https://xayotbek.uz)" width="100%" title="👋 Hi there! I'm (Xayotbek(Mamajonov)|https://xayotbek,uz)"/>](https://xayotbek.uz/)
+[<img src="https://www.veed.io/view/24782fc2-12ef-49ce-83f4-4d339cff64f2" alt="👋 Hi there! I'm (Xayotbek(Mamajonov)|https://xayotbek.uz)" width="100%" title="👋 Hi there! I'm (Xayotbek(Mamajonov)|https://xayotbek,uz)"/>](https://xayotbek.uz/)
 ![visitors](https://vbr.nathanchung.dev/badge?page_id=thexayotbe.thexayotbe&color=00cf00)
 <!--
 **Raymo111/Raymo111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
