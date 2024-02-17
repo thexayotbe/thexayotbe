@@ -1,4 +1,4 @@
-[<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExanFycW9ocGZrM29oMGJjeDJoYXFmbjE4aHV0anc5MWFnMmJwNDA0eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT39DgKMixPKDrwzf2/giphy.gif" alt="👋 Hi there! I'm (Xayotbek(Mamajonov)|https://xayotbek.uz)" title="👋 Hi there! I'm (Xayotbek(Mamajonov)|https://xayotbek,uz)"/>](https://xayotbek.uz/)
+[<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXV1NmNsaGxhbjNkZnE0ZHp2aWxueHpncWtncjNrZm41MW41Nm5ndyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KemtBWq0IHZhfKfN8s/giphy-downsized-large.gif" alt="👋 Hi there! I'm (Xayotbek(Mamajonov)|https://xayotbek.uz)" title="👋 Hi there! I'm (Xayotbek(Mamajonov)|https://xayotbek,uz)"/>](https://xayotbek.uz/)
 
 ![visitors](https://vbr.nathanchung.dev/badge?page_id=thexayotbe.thexayotbe&color=00cf00)
 <!--
