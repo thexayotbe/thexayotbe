@@ -3,7 +3,7 @@
 <!--![Satoru Gojo 4k Livewallpaper _ Jujutsu Kaisen _ Anime Livewallpaper](https://github.com/thexayotbe/thexayotbe/assets/116886834/cf361a90-5cc6-4f41-bb3f-d17d68ef5abc)
 
 
-Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning Node JS
