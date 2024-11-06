@@ -8,3 +8,7 @@
 📫 How to reach me **xayotbeklive@gmail.com** <br/>
 ⚡ Toolbox : React.JS, Next.JS, Tailwind, Redux, Bootstrap <br/>
 
+My Profiles: 
+ - [Letcode](https://leetcode.com/u/1the_xayotbe_/)
+ - [CodeForces](https://codeforces.com/profile/absolute00)
+
