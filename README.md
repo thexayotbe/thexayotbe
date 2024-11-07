@@ -1,4 +1,4 @@
-<h3 align="left">Hi 👋, I'm Xayotbek</h3>
+<h3 align="left">Hi 👋, I'm Khayotbek</h3>
 <p align="left">Currently, I’m a first year Computer Science student at Innopolis University, specializing in AI and Data Science. I was born in Uzbekistan and currently reside in the Russian Federation. I firmly believe in the importance of design quality and always pay meticulous attention to details, as they are the key factors that contribute to the creation of exceptional products.</p>
 
 <hr/>
