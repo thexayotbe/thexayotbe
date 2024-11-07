@@ -5,11 +5,13 @@
 
 🌱 I’m currently learning **Tailwind.Css, There.JS, JAVA, C++** <br/>
 💬 Ask me about **React, NextJS, TypeScript** <br/>
-📫 How to reach me **xayotbeklive@gmail.com** <br/>
+📫 How to reach me: [Gmail](xayotbeklive@gmail.com)  <br/>
 ⚡ Toolbox : React.JS, Next.JS, Tailwind, Redux, Bootstrap <br/>
+📅 My Website : *Soon...* <br/>
 
-My Profiles: 
- -  [Letcode](https://leetcode.com/u/1the_xayotbe_/)
+📌 My Profiles:
+ - [Letcode](https://leetcode.com/u/1the_xayotbe_/)
  - [CodeForces](https://codeforces.com/profile/absolute00)
  - [Telegram](https://t.me/whyme_xc)
+ - [LinkedIn](https://www.linkedin.com/in/xayotbek/)
 
