@@ -15,3 +15,4 @@
  - [Telegram](https://t.me/whyme_xc)
  - [LinkedIn](https://www.linkedin.com/in/xayotbek/)
 
+[![wakatime](https://wakatime.com/badge/user/ea72544d-6272-4c5a-bce7-3eb922699f16.svg)](https://wakatime.com/@ea72544d-6272-4c5a-bce7-3eb922699f16)
