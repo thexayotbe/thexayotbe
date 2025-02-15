@@ -3,8 +3,8 @@
 
 <hr/>
 
-🌱 I’m currently learning **Tailwind.Css, Three.JS, JAVA, C++** <br/>
-💬 Ask me about **React, NextJS, TypeScript** <br/>
+🌱 I’m currently learning **Three.JS, JAVA, C++** <br/>
+💬 Ask me about **React, NextJS, TypeScript,Tailwind.Css** <br/>
 📫 How to reach me: [Gmail](xayotbeklive@gmail.com)  <br/>
 ⚡ Toolbox : React.JS, Next.JS, Tailwind, Redux, Bootstrap <br/>
 📅 My Website : *Soon...* <br/>
