@@ -16,3 +16,4 @@
  - [LinkedIn](https://www.linkedin.com/in/xayotbek/)
 
 [![wakatime](https://wakatime.com/badge/user/ea72544d-6272-4c5a-bce7-3eb922699f16.svg)](https://wakatime.com/@ea72544d-6272-4c5a-bce7-3eb922699f16)
+[![My LeetCode stats](https://leetcode-stats-six.vercel.app/?username=KnlnKS)](https://github.com/1the_xayotbe/leetcode-stats)
